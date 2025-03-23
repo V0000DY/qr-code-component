@@ -6,7 +6,7 @@
   --shadow-color: rgba(0, 0, 0, 0.1);
   --link-color: hsl(228, 45%, 44%);
   --font-family: "Outfit", sans-serif;
-  --font-size: 15px;
+  --font-size: 16px;
   --header-font-size: 22px;
   --paragraph-font-size: var(--font-size);
 }
@@ -54,7 +54,7 @@ p {
   font-weight: 400;
   color: var(--secondary-color);
   padding: 0 16px;
-  margin-bottom: 25px;
+  margin-bottom: 30px;
 }
 
 footer {
