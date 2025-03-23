@@ -28,8 +28,8 @@ This screenshot showcases the final result of my project. I used Google Chrom to
 
 ### Links
 
-- Solution: [View solution here](https://your-solution-url.com)
-- Live site: [Visit live site here](https://your-live-site-url.com)
+- Solution: [View solution here](https://github.com/V0000DY/qr-code-component)
+- Live site: [Visit live site here](https://v0000dy.github.io/qr-code-component/)
 
 ---
 
@@ -119,7 +119,10 @@ Flexbox Froggy — An interactive game that helped me understand Flexbox better.
 
 Frontend Mentor Slack Community — A community where I found helpful tips and advice.
 
-Author
+---
+
+### Author
+
 Vitaly Rubtsov
 
 Frontend Mentor: @V0000DY
